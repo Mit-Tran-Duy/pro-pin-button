@@ -1,5 +1,5 @@
 {
-  "name": "@scalable.software/component.template",
+  "name": "pin-button",
   "version": "0.3.1",
   "description": "A template for creating web components using Scalable.Software standards and practices.",
   "keywords": [

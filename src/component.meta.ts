@@ -5,7 +5,7 @@
 /**
  * @category Configuration
  */
-export const Tag = "component-template" as const;
+export const Tag = "pin-button" as const;
 
 /**
  * @category Configuration
@@ -17,7 +17,10 @@ export const CSS = "component.style.css" as const;
  * @category Metadata
  * @enum
  */
-export const Attributes = {} as const;
+export const Attributes = {
+  pinned: "pinned"
+} as const;
+
 /**
  * HTML Attributes available to set
  * @category Metadata

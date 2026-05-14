@@ -5,7 +5,7 @@ import {
   Tag,
   CSS,
   Attributes
-} from "@scalable.software/component.template";
+} from "pin-button";
 
 // Configuration
 configuration(Configuration.TAG, () => {
